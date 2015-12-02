@@ -1,0 +1,25 @@
+<!DOCTYPEhtml>
+<html>  
+	<head>
+		<title> Date Ideas </title>  
+		<script src="jquery-1.11.3.js"></script>
+		<link rel="stylesheet" href="http://s3.amazonaws.com/codecademy-content/courses/ltp/css/bootstrap.css">
+		<link rel="stylesheet" href="stylesheets/dates.css" type='text/css'>
+ 	</head>
+<body>
+	<div class="container"></div>
+		<h1>Date Ideas</h1>
+			<h3>You've found your dream Bamboo Buddy, but what now? Find some inspiration here for your date!</h3>
+	<div class="ideas">
+		<div class="container"></div>
+   			<h4>Date 1: The Classic</h4>
+    			<p>You eat for sixteen hours a day, so a classic date for you and your new panda friend to enjoy is a special meal! Dine on the finest leaves, stems and shoots and show your date you're a true bamboo connoisseur. The Classic date is great for Bamboo Buddies looking to meet someone special. </p>
+		<div class="container"></div>
+    		<h4>Date 2: The Active</h4>
+    			<p>You've both been sitting around all day, so how about some time 	to stretch your legs? Visit a new patch of forest and go climbing for a more active date. Race to the top and show your competitive streak! The Active date is great for Bamboo Buddies looking to get active this mating season. </p>
+		<div class="container"></div>
+    		<h4>Date 3: The Romantic</h4>
+    			<p>If you're a quiet kind of panda, maybe you want to keep things low-key while you get to know each other. How about taking your new panda friend on a walk through your favourite spots in the forest? Show them your thinking spot, where you like to eat, or just somewhere scenic! The Romantic date is great for Bamboo Buddies looking for something meaningful. </p>
+    </div>
+</body>
+</html>
